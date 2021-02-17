@@ -47,6 +47,7 @@
 
 # VSCode
 /.vscode
+/*.code-workspace
 
 #Vercel
 /frontend/.vercel
