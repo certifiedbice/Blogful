@@ -1,5 +1,8 @@
-# Blogful client
+# Blogful
+**Blogging application**
 
-## Scripts
+## Author
+**Bice**
 
-Start the application `npm start`
+### Technology Stack
+**PERN**
